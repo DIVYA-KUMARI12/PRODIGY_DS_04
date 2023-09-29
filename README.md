@@ -25,7 +25,7 @@ pip install pandas matplotlib textblob
 # Getting Started
 1. Clone this repository to your local machine:
 
-git clone https://github.com/DIVYA-KUMARI12/social-media-sentiment-analysis.git
+git clone:  https://github.com/DIVYA-KUMARI12/social-media-sentiment-analysis.git
 cd social-media-sentiment-analysis
 2. Download or prepare your social media data in CSV format and save it in the project directory.
 
