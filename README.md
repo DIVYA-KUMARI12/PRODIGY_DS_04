@@ -3,6 +3,7 @@
 This project focuses on analyzing and visualizing sentiment patterns in social media data to gain insights into public opinion and attitudes towards specific topics or brands. By leveraging the power of natural language processing and data visualization, we aim to provide a clear understanding of sentiment trends within the data.
 
 # Table of Contents
+
 - Introduction
 - Prerequisites
 - Getting Started
@@ -10,6 +11,7 @@ This project focuses on analyzing and visualizing sentiment patterns in social m
 - Results
 - Contributing
 - License
+  
 # Introduction
 Social media platforms have become a significant source of public sentiment data. Analyzing this data can be valuable for businesses, researchers, and decision-makers to understand how people feel about their products, services, or specific topics. This project uses Python libraries such as Pandas, Matplotlib, and TextBlob to perform sentiment analysis and visualize the results.
 
