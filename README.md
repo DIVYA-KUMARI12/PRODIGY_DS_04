@@ -4,13 +4,13 @@ This project focuses on analyzing and visualizing sentiment patterns in social m
 
 # Table of Contents
 
-- Introduction
-- Prerequisites
-- Getting Started
-- Usage
-- Results
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Getting-Started](#getting-started)
+- [Usage](#usage)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
   
 # Introduction
 Social media platforms have become a significant source of public sentiment data. Analyzing this data can be valuable for businesses, researchers, and decision-makers to understand how people feel about their products, services, or specific topics. This project uses Python libraries such as Pandas, Matplotlib, and TextBlob to perform sentiment analysis and visualize the results.
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following prerequisites:
 - matplotlib
 - textblob
 pip install pandas matplotlib textblob
-# Getting Started
+# Getting-Started
 1. Clone this repository to your local machine:
 
 git clone:[  https://github.com/DIVYA-KUMARI12/social-media-sentiment-analysis.git](https://github.com/DIVYA-KUMARI12/PRODIGY_DS_04)
